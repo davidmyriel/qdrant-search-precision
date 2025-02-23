@@ -2,9 +2,6 @@
 
 ![Precision visualization](precision.gif)
 
-| Time: 30 min | Level: Intermediate |  |    |
-|--------------|---------------------|--|----|
-
 Semantic search pipelines are as good as the embeddings they use. If your model cannot properly represent input data, similar objects might
 be far away from each other in the vector space. No surprise, that the search results will be poor in this case. There is, however, another
 component of the process which can also degrade the quality of the search results. It is the ANN algorithm itself. 
